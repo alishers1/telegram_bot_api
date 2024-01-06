@@ -10,9 +10,14 @@ var allProducts = []Product{
 	{
 		"Three",
 	},
+	{
+		"Four",
+	},
+	{
+		"Five",
+	},
 }
 
 type Product struct {
 	Title string
 }
-
